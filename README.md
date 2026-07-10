@@ -30,3 +30,4 @@ Aplikasi ini dibangun menggunakan ekosistem modern React Native untuk memastikan
 -Akses GPS/Lokasi: expo-location (Digunakan untuk melacak dan mengunci koordinat garis lintang dan bujur secara real-time).
 -Interaksi Peta Eksternal: React Native Linking API (Membuka aplikasi Google Maps bawaan perangkat dengan melemparkan parameter koordinat dinamis).
 -Bahasa Pemrograman: JavaScript (ES6+)
+link Expo Snack : https://snack.expo.dev/@mabdullah45/check-in-app
